@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CajeroAutomatico_991b05d9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConversorMoneda",
+            "request": "launch",
+            "mainClass": "ConversorMoneda",
+            "projectName": "CajeroAutomatico_991b05d9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interfaz",
+            "request": "launch",
+            "mainClass": "Interfaz",
+            "projectName": "CajeroAutomatico_991b05d9"
+        }
+    ]
+}
